@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\aurim\\Desktop\\.NET\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\aurim\\Desktop\\.NET\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\aurim\\Desktop\\.NET\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\aurim\\Desktop\\.NET\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\aurim\\Desktop\\.NET\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\aurim\\Desktop\\.NET\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\aurim\\Desktop\\.NET\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\aurim\\Desktop\\.NET\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\aurim\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\aurim\\Desktop\\.NET\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\aurim\\Desktop\\.NET\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -25,6 +25,7 @@
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,6 +45,8 @@
           "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.1, )"
             },
