@@ -65,3 +65,6 @@ C:\Users\aurim\Desktop\.NET\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityMod
 C:\Users\aurim\Desktop\.NET\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\aurim\Desktop\.NET\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\aurim\Desktop\.NET\DatingApp\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aurim\Desktop\.NET\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\aurim\Desktop\.NET\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aurim\Desktop\.NET\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
