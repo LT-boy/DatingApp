@@ -60,3 +60,8 @@ C:\Users\aurim\Desktop\.NET\DatingApp\API\bin\Debug\net7.0\runtimes\win-arm64\na
 C:\Users\aurim\Desktop\.NET\DatingApp\API\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\aurim\Desktop\.NET\DatingApp\API\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\aurim\Desktop\.NET\DatingApp\API\obj\Debug\net7.0\API.csproj.CopyComplete
+C:\Users\aurim\Desktop\.NET\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aurim\Desktop\.NET\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aurim\Desktop\.NET\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aurim\Desktop\.NET\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aurim\Desktop\.NET\DatingApp\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
