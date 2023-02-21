@@ -68,3 +68,4 @@ C:\Users\aurim\Desktop\.NET\DatingApp\API\bin\Debug\net7.0\System.IdentityModel.
 C:\Users\aurim\Desktop\.NET\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\aurim\Desktop\.NET\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\aurim\Desktop\.NET\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aurim\Desktop\.NET\DatingApp\API\bin\Debug\net7.0\Data\UserSeedData.json
