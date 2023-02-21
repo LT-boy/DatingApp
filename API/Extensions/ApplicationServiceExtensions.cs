@@ -17,6 +17,7 @@ namespace API.Extensions
             services.AddCors();
             //Building service for token (specify interface and implementation class)
             services.AddScoped<ITokenService, TokenService>();
+            services.AddScoped<IUserRepository, UserRepository>();
 
             return services;
         }
